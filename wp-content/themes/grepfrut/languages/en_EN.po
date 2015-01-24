@@ -1,0 +1,1396 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: grepfrut\n"
+"POT-Creation-Date: 2013-12-03 01:06+0530\n"
+"PO-Revision-Date: 2013-12-03 01:15+0530\n"
+"Last-Translator: Tansh <creative.tansh@gmail.com>\n"
+"Language-Team: Tansh\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../archive.php:26
+#, php-format
+msgid "Daily Archives : %s"
+msgstr ""
+
+#: ../archive.php:28
+#, php-format
+msgid "Monthly Archives : %s"
+msgstr ""
+
+#: ../archive.php:28
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: ../archive.php:30
+#, php-format
+msgid "Yearly Archives : %s"
+msgstr ""
+
+#: ../archive.php:30
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: ../archive.php:32
+msgid "Archives"
+msgstr ""
+
+#: ../author.php:23
+#, php-format
+msgid "All posts by %s"
+msgstr ""
+
+#: ../category.php:22
+#, php-format
+msgid "Category Archives : %s"
+msgstr ""
+
+#: ../comments.php:39
+msgid "<div class=\"prev-arrow\"></div> Older Comments"
+msgstr ""
+
+#: ../comments.php:42
+msgid "Newer Comments <div class=\"next-arrow\"></div>"
+msgstr ""
+
+#: ../comments.php:49
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:61
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:65
+msgid "Email"
+msgstr ""
+
+#: ../comments.php:69
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:76
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../comments.php:77
+msgid "Post comment"
+msgstr ""
+
+#: ../comments.php:78
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#: ../functions.php:115
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../functions.php:125 ../functions.php:132 ../functions.php:138
+msgid ", "
+msgstr ""
+
+#: ../functions.php:154
+#, php-format
+msgctxt "1: post format name. 2: date"
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: ../functions.php:159
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../functions.php:197
+msgctxt "Previous post link"
+msgid "<div class=\"prev-arrow\"></div> Previous Post"
+msgstr ""
+
+#: ../functions.php:200
+msgctxt "Next post link"
+msgid "Next Post <div class=\"next-arrow\"></div> "
+msgstr ""
+
+#: ../functions.php:223
+msgid "<div class=\"prev-arrow\"></div> Older posts"
+msgstr ""
+
+#: ../functions.php:228
+msgid "Newer posts <div class=\"next-arrow\"></div>"
+msgstr ""
+
+#: ../functions.php:246
+msgid "Thumbnail"
+msgstr ""
+
+#: ../functions.php:276
+msgid "No thumb"
+msgstr ""
+
+#: ../functions.php:460 ../includes/tgm-plugin-activation.php:164
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../functions.php:461 ../includes/tgm-plugin-activation.php:165
+msgid "Install Plugins"
+msgstr ""
+
+#: ../functions.php:462 ../includes/tgm-plugin-activation.php:166
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../functions.php:463
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../functions.php:474 ../includes/tgm-plugin-activation.php:178
+#: ../includes/tgm-plugin-activation.php:490
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../functions.php:475 ../includes/tgm-plugin-activation.php:179
+#: ../includes/tgm-plugin-activation.php:1846
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../functions.php:476
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../functions.php:496
+#, php-format
+msgid ""
+"<cite class=\"fn custom-fn\">%s</cite> <span class=\"says\">says:</span>"
+msgstr ""
+
+#: ../functions.php:500
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../functions.php:502
+msgid "(Edit)"
+msgstr ""
+
+#: ../functions.php:513
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:667
+msgid "Page"
+msgstr ""
+
+#: ../page.php:41 ../template-home.php:24
+msgid "Pages"
+msgstr ""
+
+#: ../search.php:21
+#, php-format
+msgid "Search Results for : %s"
+msgstr ""
+
+#: ../searchform.php:3
+msgid "Search ..."
+msgstr ""
+
+#: ../tag.php:22
+#, php-format
+msgid "Tagged : %s"
+msgstr ""
+
+#: ../taxonomy-post_format.php:22
+#, php-format
+msgid "%s Archives"
+msgstr ""
+
+#: ../template-full.php:41 ../template-left-sidebar.php:42
+msgid "Pages:"
+msgstr ""
+
+#: ../admin/classes/class.options_machine.php:1088
+msgid "Last Backup : "
+msgstr ""
+
+#: ../admin/front-end/options.php:43 ../admin/front-end/options.php:67
+msgid "Save All Changes"
+msgstr ""
+
+#: ../admin/front-end/options.php:68
+msgid "Options Reset"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:142
+msgid "Upload Favicon ( 16px x 16px ico/png/jpg )."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:150
+msgid "Upload Icon ( 57px x 57px png )."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:158
+msgid "Upload Icon ( 114px x 114px png )."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:166
+msgid "Upload Icon ( 72px x 72px png )."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:174
+msgid "Upload Icon ( 144px x 144px png )."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:190
+msgid "Check to enable responsiveness."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:206
+msgid ""
+"Paste Google Analytics (or other) tracking code here. This will be added "
+"into the footer of theme."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:222
+msgid "Check to enable comments on pages."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:238
+msgid "Check to enable icon for Archives title."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:246
+msgid "Check to enable icon for blog title."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:254
+msgid ""
+"Check to enable icon for portfolio page title and porfolio details page title"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:280
+msgid "Select color skin."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:305
+msgid "Set body text. <br/>  ( Defaults: 14px, Raleway, normal, #767676 )"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:327
+msgid "Set H1. <br/>  ( Defaults: 36px, Raleway, normal, #646464 )"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:340
+msgid "Set H2. <br/>  ( Defaults: 24px, Raleway, bold, #646464 )"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:353
+msgid "Set H3. <br/>  ( Defaults: 20px, Raleway, bold, #646464 )"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:366
+msgid "Set H4. <br/>  ( Defaults: 18px, Raleway, bold, #646464 )"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:379
+msgid "Set H5. <br/>  ( Defaults: 14px, Raleway, bold, #646464 )"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:392
+msgid "Set H6. <br/>  ( Defaults: 12px, Raleway, bold, #646464 )"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:414
+msgid ""
+"Set heading / page title. <br/> ( Defaults: 18px, Raleway, bold, #727272 )."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:427
+msgid ""
+"Set page header text. <br/> ( Defaults: 12px, Raleway, normal, #727272 ). "
+"Will work for breadcrumb text."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:440
+msgid "Page header link color."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:448
+msgid "Page header link hover color."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:465
+msgid "Set footer text. <br/> ( Defaults : 14px, Raleway, normal, #767676 )"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:478
+msgid "Color of headings in footer (h1 to h6)."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:495
+msgid "Set copyright text. <br/> ( Defaults : 11px, Raleway, normal, #242424 )"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:508
+msgid "Link color."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:516
+msgid "Link hover color."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:589
+msgid "Set button font family."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:617
+msgid "Body background color."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:625
+#: ../admin/functions/functions.options.php:716
+#: ../admin/functions/functions.options.php:1003
+#: ../admin/functions/functions.options.php:1153
+#: ../admin/functions/functions.options.php:1273
+msgid "Check to enable background pattern."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:633
+#: ../admin/functions/functions.options.php:724
+#: ../admin/functions/functions.options.php:1011
+#: ../admin/functions/functions.options.php:1161
+#: ../admin/functions/functions.options.php:1281
+msgid "Select a background pattern."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:708
+#: ../admin/functions/functions.options.php:756
+#: ../admin/functions/functions.options.php:995
+#: ../admin/functions/functions.options.php:1145
+#: ../admin/functions/functions.options.php:1200
+#: ../admin/functions/functions.options.php:1265
+msgid "Background color."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:773
+msgid ""
+"If Image Logo : Upload logo image using field below. <br/><br/> If text "
+"logo : Provide text using field below."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:785
+msgid "Upload logo."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:793
+msgid "Enter text for logo and set font."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:801
+msgid "Set font. ( Defaults : 32px, Arial, normal, #d9b444 )"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:814
+msgid ""
+"<<----- Logo hover color. If text logo, it will change color on hover. <br/> "
+"Keep it same as logo text color or change as per liking."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:822
+msgid "Logo top margin ( in 'px' )."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:839
+msgid ""
+"Check to enable widget area for <br/> 'Social Icons' in header. <br/><br/> "
+"Please visit the widgets settings page to configure 'Social Network' widget."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:856
+msgid "Check to enable phone number."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:864
+msgid "Enter phone number."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:872
+#: ../admin/functions/functions.options.php:910
+msgid "Set font. ( Defaults : 14px, Raleway, bold, #727272 )"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:894
+msgid "Check to enable tagline in topbar."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:902
+msgid "Enter tagline."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:932
+msgid "Set font. ( Defaults: 12px, Raleway, bold, #a7a7a7 )"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:946
+msgid "Hover background color."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:954
+msgid "Dropdown background color."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:962
+msgid "Dropdown link hover color."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:970
+msgid "Colored link in menu"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1071
+msgid "Breadcrumb top margin ( in 'px' )."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1089
+msgid "Select a background image for slider."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1123
+msgid "Select number of columns."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1192
+msgid ""
+"Check to enable row for Twiiter feed and Social icons above main footer "
+"columns."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1208
+msgid "Border color."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1216
+msgid ""
+"<----- Twitter username with link to the left side of twitter feed box. <br/"
+"><br/> Default : &lt;a href='#' target='_blank'&gt;Grepfrut&lt;/a&gt <br/"
+"><br/> Please visit the widgets settings page to configure 'Twitter Feed "
+"Widget'."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1224
+msgid ""
+"Check to enable widget area for 'Social Icons' in footer.  <br/><br/> If "
+"disabled, will display only twitter feed. <br/><br/> Please visit the "
+"widgets settings page to configure 'Social Network' widget for footer."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1241
+msgid "Enter copyright text (HTML allowed)"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1249
+msgid "Enable secondary menu in copyright"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1304
+msgid "Border top color."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1321
+msgid "Select blog layout."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1333
+msgid "Select blog sidebar position."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1345
+msgid "Blog page title."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1362
+msgid "Specify the number of portfolio items to display per page."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1370
+msgid "Check to enable portfolio filter."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1378
+msgid "Check to enable heading of portfolio item."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1386
+msgid "Check to enable excerpt of portfolio item."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1403
+msgid "Paste your CSS Code."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1420
+msgid ""
+"You can use the two buttons below to backup your current options, and then "
+"restore it back at a later time. This is useful if you want to experiment on "
+"the options but would like to keep the old settings in case you need it back."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:1428
+msgid ""
+"You can tranfer the saved options data between different installs by copying "
+"the text inside the text box. To import data from another install, replace "
+"the data in the text box with the one from another install and click "
+"\"Import Options\"."
+msgstr ""
+
+#: ../includes/bk-compatiblity.php:32 ../includes/bk-compatiblity.php:42
+#, php-format
+msgid ""
+"Theme requires at least WordPress version 3.6. You have version %s. Please "
+"upgrade and try again."
+msgstr ""
+
+#: ../includes/tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: ../includes/tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation.php:517
+#: ../includes/tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: ../includes/tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation.php:1544
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: ../includes/tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../includes/tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../includes/tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../includes/tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../includes/tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../includes/tgm-plugin-activation.php:1956
+#: ../includes/tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation.php:1956
+#: ../includes/tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../includes/tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../includes/tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../includes/tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../includes/tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../includes/tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../includes/tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/meta-box/config-metabox.php:36
+#: ../includes/meta-box/config-metabox.php:45
+msgid "Select Post Type"
+msgstr ""
+
+#: ../includes/meta-box/config-metabox.php:40
+msgid "Image"
+msgstr ""
+
+#: ../includes/meta-box/config-metabox.php:41
+msgid "Video"
+msgstr ""
+
+#: ../includes/meta-box/config-metabox.php:64
+msgid ""
+"<br/>Video will be displayed on zoom.<br/><br/><strong>URL examples</"
+"strong><br/> Youtube - http://youtu.be/XSGBVzeBUbk <br/><br/>  Vimeo - "
+"http://vimeo.com/69228454"
+msgstr ""
+
+#: ../includes/meta-box/config-metabox.php:87
+msgid ""
+"</br>Check to enable external link, if unchecked, link will display "
+"portfolio details page."
+msgstr ""
+
+#: ../includes/meta-box/config-metabox.php:150
+msgid "Give icon path"
+msgstr ""
+
+#: ../includes/meta-box/config-metabox.php:152
+msgid "Icon url"
+msgstr ""
+
+#: ../includes/meta-box/config-metabox.php:159
+msgid "Checkbox"
+msgstr ""
+
+#: ../includes/meta-box/config-metabox.php:180
+msgid "Select Revolution Slider, only if home page template selected."
+msgstr ""
+
+#: ../includes/meta-box/config-metabox.php:201
+msgid "Select Revolution Slider, only if gallery post."
+msgstr ""
+
+#: ../includes/meta-box/inc/meta-box.php:244
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: ../includes/meta-box/inc/meta-box.php:418
+msgid "+"
+msgstr ""
+
+#: ../includes/meta-box/inc/meta-box.php:440
+msgid "&#8211;"
+msgstr ""
+
+#: ../includes/meta-box/inc/fields/button.php:36
+msgid "Click me"
+msgstr ""
+
+#: ../includes/meta-box/inc/fields/file-advanced.php:23
+msgid "Select Files"
+msgstr ""
+
+#: ../includes/meta-box/inc/fields/file-advanced.php:66
+msgctxt "file upload"
+msgid "Select or Upload Files"
+msgstr ""
+
+#: ../includes/meta-box/inc/fields/file-advanced.php:102
+#: ../includes/meta-box/inc/fields/file.php:138
+msgctxt "file upload"
+msgid "Delete"
+msgstr ""
+
+#: ../includes/meta-box/inc/fields/file-advanced.php:103
+#: ../includes/meta-box/inc/fields/file.php:139
+msgctxt "file upload"
+msgid "Edit"
+msgstr ""
+
+#: ../includes/meta-box/inc/fields/file.php:19
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: ../includes/meta-box/inc/fields/file.php:20
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: ../includes/meta-box/inc/fields/file.php:70
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: ../includes/meta-box/inc/fields/file.php:84
+msgctxt "file upload"
+msgid "Upload Files"
+msgstr ""
+
+#: ../includes/meta-box/inc/fields/file.php:85
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr ""
+
+#: ../includes/meta-box/inc/fields/image-advanced.php:22
+msgid "Select Images"
+msgstr ""
+
+#: ../includes/meta-box/inc/fields/image-advanced.php:71
+msgctxt "image upload"
+msgid "Select or Upload Images"
+msgstr ""
+
+#: ../includes/meta-box/inc/fields/image-advanced.php:107
+#: ../includes/meta-box/inc/fields/image.php:137
+msgctxt "image upload"
+msgid "Delete"
+msgstr ""
+
+#: ../includes/meta-box/inc/fields/image-advanced.php:108
+#: ../includes/meta-box/inc/fields/image.php:138
+msgctxt "image upload"
+msgid "Edit"
+msgstr ""
+
+#: ../includes/meta-box/inc/fields/image.php:71
+#: ../includes/meta-box/inc/fields/thickbox-image.php:35
+msgctxt "image upload"
+msgid "Upload Images"
+msgstr ""
+
+#: ../includes/meta-box/inc/fields/image.php:72
+msgctxt "image upload"
+msgid "+ Add new image"
+msgstr ""
+
+#: ../includes/meta-box/inc/fields/map.php:49
+msgid "Find Address"
+msgstr ""
+
+#: ../includes/meta-box/inc/fields/oembed.php:54
+msgid "Embed HTML not available."
+msgstr ""
+
+#: ../includes/meta-box/inc/fields/oembed.php:77
+msgid "Preview"
+msgstr ""
+
+#: ../includes/meta-box/inc/fields/plupload-image.php:103
+msgctxt "image upload"
+msgid "Drop images here"
+msgstr ""
+
+#: ../includes/meta-box/inc/fields/plupload-image.php:104
+msgctxt "image upload"
+msgid "or"
+msgstr ""
+
+#: ../includes/meta-box/inc/fields/plupload-image.php:105
+msgctxt "image upload"
+msgid "Select Files"
+msgstr ""
+
+#: ../includes/meta-box/inc/fields/plupload-image.php:180
+msgctxt "image upload"
+msgid "Allowed Image Files"
+msgstr ""
+
+#: ../includes/meta-box/inc/fields/post.php:54
+msgid "Post"
+msgstr ""
+
+#: ../includes/meta-box/inc/fields/post.php:68
+#: ../includes/meta-box/inc/fields/taxonomy.php:40
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: ../includes/templates/footers/footer-v1.php:19
+msgid "No widget! Activate footer Social Network Widget."
+msgstr ""
+
+#: ../includes/templates/footers/footer-v1.php:22
+msgid "OR Place logo through text widget."
+msgstr ""
+
+#: ../includes/templates/footers/footer-v1.php:25
+#: ../includes/templates/headers/header-v1.php:42
+#: ../includes/templates/headers/header-v2.php:45
+#: ../includes/templates/headers/header-v3.php:31
+msgid "OR Disable through options panel."
+msgstr ""
+
+#: ../includes/templates/footers/footer-v1.php:43
+#: ../includes/templates/footers/footer-v2.php:24
+msgid "Twitter feed Widget not activated yet!"
+msgstr ""
+
+#: ../includes/templates/headers/header-v1.php:39
+#: ../includes/templates/headers/header-v2.php:42
+#: ../includes/templates/headers/header-v3.php:28
+msgid "Social Network Widget not activated yet - Activate!"
+msgstr ""
+
+#: ../includes/templates/post-formats/author-bio.php:14
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: ../includes/templates/post-formats/content-aside.php:21
+#: ../includes/templates/post-formats/content-audio.php:27
+#: ../includes/templates/post-formats/content-gallery.php:27
+#: ../includes/templates/post-formats/content-link.php:27
+#: ../includes/templates/post-formats/content-quote.php:17
+#: ../includes/templates/post-formats/content-video.php:22
+#: ../includes/templates/post-formats/content.php:27
+msgid "No Comments"
+msgstr ""
+
+#: ../includes/templates/post-formats/content-aside.php:21
+#: ../includes/templates/post-formats/content-audio.php:27
+#: ../includes/templates/post-formats/content-gallery.php:27
+#: ../includes/templates/post-formats/content-link.php:27
+#: ../includes/templates/post-formats/content-quote.php:17
+#: ../includes/templates/post-formats/content-video.php:22
+#: ../includes/templates/post-formats/content.php:27
+msgid "One comment"
+msgstr ""
+
+#: ../includes/templates/post-formats/content-aside.php:21
+#: ../includes/templates/post-formats/content-audio.php:27
+#: ../includes/templates/post-formats/content-gallery.php:27
+#: ../includes/templates/post-formats/content-link.php:27
+#: ../includes/templates/post-formats/content-quote.php:17
+#: ../includes/templates/post-formats/content-video.php:22
+#: ../includes/templates/post-formats/content.php:27
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: ../includes/templates/post-formats/content-audio.php:40
+#: ../includes/templates/post-formats/content-gallery.php:38
+#: ../includes/templates/post-formats/content-link.php:35
+#: ../includes/templates/post-formats/content-video.php:32
+#: ../includes/templates/post-formats/content.php:42
+msgid "Continue Reading"
+msgstr ""
+
+#: ../includes/templates/post-formats/content-none.php:11
+msgid "Nothing Found"
+msgstr ""
+
+#: ../includes/templates/post-formats/content-none.php:15
+#, php-format
+msgid "Ready to go for your first post? <a href=\"%1$s\">Get started</a>."
+msgstr ""
+
+#: ../includes/templates/post-formats/content-none.php:17
+msgid ""
+"Sorry, no results were found for your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+#: ../includes/templates/post-formats/content-none.php:20
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Try with search."
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:19
+msgid "The most recent posts on your site"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:20
+msgid "Custom - Recent Posts"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:122
+#: ../includes/widgets/custom-widgets.php:206
+#: ../includes/widgets/custom-widgets.php:521
+msgid "Title:"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:128
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:135
+msgid "Display thumbnail?"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:141
+msgid "Display post date?"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:147
+msgid "Display excerpt?"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:163
+msgid "Your most used tags in cloud format"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:164
+msgid "Custom - Tag Cloud"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:175
+msgid "Tags"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:212
+msgid "Taxonomy:"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:244
+msgid "Flickr photo stream"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:245
+msgid "Custom - Flickr Feed"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:322
+#: ../includes/widgets/custom-widgets.php:651
+#: ../includes/widgets/custom-widgets.php:800
+#: ../includes/widgets/custom-widgets.php:1036
+msgid "Title :"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:329
+msgid ""
+"Flickr ID : <a href=\"http://idgettr.com/\" target=\"_blank\">Get your "
+"flickr ID</a>"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:335
+msgid "Number of photos to show :"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:341
+msgid ""
+"API key - Get your own API key from <a href=\"http://www.flickr.com/services/"
+"api/misc.api_keys.html\" target=\"_blank\">Flickr APP Garden</a>"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:346
+msgid "Sort by :"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:350
+msgid "date-posted-asc"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:353
+msgid "date-posted-desc"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:356
+msgid "date-taken-asc"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:359
+msgid "date-taken-desc"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:362
+msgid "interestingness-desc"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:365
+msgid "interestingness-asc"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:368
+msgid "relevance"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:385
+msgid "Twitter feed widget"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:386
+msgid "Custom - Twitter Feed"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:527
+msgid "App Consumer Key :"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:533
+msgid "App Consumer Secret :"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:539
+msgid "App Access Token :"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:545
+msgid "App Access Token Secret :"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:551
+msgid "Twitter Username :"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:556
+msgid "Number of Tweets :"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:574
+msgid "Facebook like box"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:575
+msgid "Custom - Facebook Like Box"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:657
+msgid "Facebook Page URL :"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:663
+msgid "Like Box Width :"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:669
+msgid "Color Scheme :"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:673
+msgid "Light"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:676
+msgid "Dark"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:683
+msgid "Show Faces"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:689
+msgid "Show Header"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:695
+msgid "Show Stream"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:701
+msgid "Show border"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:717
+msgid "Contact info"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:718
+msgid "Custom - Contact Info"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:806
+msgid "Address :"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:814
+msgid "Automatically add paragraphs to address"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:819
+msgid "Phone :"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:825
+msgid "Fax :"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:831
+msgid "Email address :"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:837
+msgid "Email Link Text :"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:843
+msgid "Website URL ( with http:// or https:// ) :"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:849
+msgid "Website URL Text :"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:855
+msgid "Twitter Link :"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:861
+msgid "Twitter Link text :"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:867
+msgid "Skype Link :"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:873
+msgid "Skype Link text :"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:889
+msgid "Social network"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:890
+msgid "Custom - Social Network"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:1042
+msgid "Aim URL :"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:1048
+msgid "Behance URL :"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:1054
+msgid "Deviantart URL :"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:1060
+msgid "Dribbble URL :"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:1066
+msgid "Dropbox URL :"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:1072
+msgid "Facebook URL :"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:1078
+msgid "Flickr URL :"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:1084
+msgid "Forrst URL :"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:1090
+msgid "Googleplus URL :"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:1096
+msgid "Lastfm URL :"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:1102
+msgid "Linkedin URL :"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:1108
+msgid "Picasa URL :"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:1114
+msgid "Pinterest URL :"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:1120
+msgid "Skype URL :"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:1126
+msgid "Tumblr URL :"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:1132
+msgid "Twitter URL :"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:1138
+msgid "Vimeo URL :"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:1144
+msgid "Yahoo URL :"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:1150
+msgid "Yelp URL :"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:1156
+msgid "Youtube URL :"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:1162
+msgid "RSS URL :"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:1178
+msgid "Recent form portfolio"
+msgstr ""
+
+#: ../includes/widgets/custom-widgets.php:1179
+msgid "Custom - Recent Works"
+msgstr ""
+
+#: ../includes/widgets/sidebars.php:17
+msgid "Blog Widgets"
+msgstr ""
+
+#: ../includes/widgets/sidebars.php:19
+msgid ""
+"This area will be shown as a post sidebar. Widgets will be stacked in this "
+"column."
+msgstr ""
+
+#: ../includes/widgets/sidebars.php:28
+msgid "Header Social Icons Widget Area"
+msgstr ""
+
+#: ../includes/widgets/sidebars.php:30
+msgid "Area for social icons in header."
+msgstr ""
+
+#: ../includes/widgets/sidebars.php:39
+msgid "Footer Twitter Feed Widget Area"
+msgstr ""
+
+#: ../includes/widgets/sidebars.php:41
+msgid "Area for twitter feed in footer"
+msgstr ""
+
+#: ../includes/widgets/sidebars.php:50
+msgid "Footer Social Icons Widget Area"
+msgstr ""
+
+#: ../includes/widgets/sidebars.php:52
+msgid ""
+"Area for Social Icons in footer. Alternatively, else like logo etc. can be "
+"placed via text widget."
+msgstr ""
+
+#: ../includes/widgets/sidebars.php:67
+msgid ""
+"This area is a dynamically generated footer widget column. Widgets will be "
+"stacked in here."
+msgstr ""

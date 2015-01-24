@@ -1,0 +1,5 @@
+/* Stylesheet for revolution custom styles */
+.rev_slider_wrapper {
+	text-shadow: 0 1px 0 #000;
+}
+.tp-bullets { background: transparent !important}
