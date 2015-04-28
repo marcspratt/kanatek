@@ -875,6 +875,21 @@ class TCSN_Widget_Social_Network extends WP_Widget {
 	?>
     
 <ul class="social clearfix">
+	<?php if($instance['facebook']): ?>
+    <li><a href="<?php echo $instance['facebook']; ?>" target="_blank" class="facebook-icon" title="facebook"></a></li>
+    <?php endif; ?>
+	<?php if($instance['twitter']): ?>
+    <li><a href="<?php echo $instance['twitter']; ?>" target="_blank" class="twitter-icon" title="twitter"></a></li>
+    <?php endif; ?>
+	<?php if($instance['linkedin']): ?>
+    <li><a href="<?php echo $instance['linkedin']; ?>" target="_blank" class="linkedin-icon" title="linkedin"></a></li>
+    <?php endif; ?>
+	<?php if($instance['googleplus']): ?>
+    <li><a href="<?php echo $instance['googleplus']; ?>" target="_blank" class="googleplus-icon" title="googleplus"></a></li>
+    <?php endif; ?>
+    <?php if($instance['youtube']): ?>
+    <li><a href="<?php echo $instance['youtube']; ?>" target="_blank" class="youtube-icon" title="youtube"></a></li>
+    <?php endif; ?>
 	<?php if($instance['aim']): ?>
     <li><a href="<?php echo $instance['aim']; ?>" target="_blank" class="aim-icon" title="aim"></a></li>
     <?php endif; ?>
@@ -890,23 +905,14 @@ class TCSN_Widget_Social_Network extends WP_Widget {
     <?php if($instance['dropbox']): ?>
     <li><a href="<?php echo $instance['dropbox']; ?>" target="_blank" class="dropbox-icon"></a></li>
     <?php endif; ?>
-    <?php if($instance['facebook']): ?>
-    <li><a href="<?php echo $instance['facebook']; ?>" target="_blank" class="facebook-icon" title="facebook"></a></li>
-    <?php endif; ?>
     <?php if($instance['flickr']): ?>
     <li><a href="<?php echo $instance['flickr']; ?>" target="_blank" class="flickr-icon" title="flickr"></a></li>
     <?php endif; ?>
      <?php if($instance['forrst']): ?>
     <li><a href="<?php echo $instance['forrst']; ?>" target="_blank" class="forrst-icon" title="forrst"></a></li>
     <?php endif; ?>
-    <?php if($instance['googleplus']): ?>
-    <li><a href="<?php echo $instance['googleplus']; ?>" target="_blank" class="googleplus-icon" title="googleplus"></a></li>
-    <?php endif; ?>
     <?php if($instance['lastfm']): ?>
     <li><a href="<?php echo $instance['lastfm']; ?>" target="_blank" class="lastfm-icon" title="lastfm"></a></li>
-    <?php endif; ?>
-    <?php if($instance['linkedin']): ?>
-    <li><a href="<?php echo $instance['linkedin']; ?>" target="_blank" class="linkedin-icon" title="linkedin"></a></li>
     <?php endif; ?>
     <?php if($instance['picasa']): ?>
     <li><a href="<?php echo $instance['picasa']; ?>" target="_blank" class="picasa-icon" title="picasa"></a></li>
@@ -920,9 +926,6 @@ class TCSN_Widget_Social_Network extends WP_Widget {
     <?php if($instance['tumblr']): ?>
     <li><a href="<?php echo $instance['tumblr']; ?>" target="_blank" class="tumblr-icon" title="tumblr"></a></li>
     <?php endif; ?>
-    <?php if($instance['twitter']): ?>
-    <li><a href="<?php echo $instance['twitter']; ?>" target="_blank" class="twitter-icon" title="twitter"></a></li>
-    <?php endif; ?>
     <?php if($instance['vimeo']): ?>
     <li><a href="<?php echo $instance['vimeo']; ?>" target="_blank" class="vimeo-icon" title="vimeo"></a></li>
     <?php endif; ?>
@@ -931,9 +934,6 @@ class TCSN_Widget_Social_Network extends WP_Widget {
     <?php endif; ?>
     <?php if($instance['yelp']): ?>
     <li><a href="<?php echo $instance['yelp']; ?>" target="_blank" class="yelp-icon" title="yelp"></a></li>
-    <?php endif; ?>
-    <?php if($instance['youtube']): ?>
-    <li><a href="<?php echo $instance['youtube']; ?>" target="_blank" class="youtube-icon" title="youtube"></a></li>
     <?php endif; ?>
     <?php if($instance['rss']): ?>
     <li><a href="<?php echo $instance['rss']; ?>" target="_blank" class="rss-icon" title="rss"></a></li>
